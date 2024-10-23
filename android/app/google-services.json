@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266832429847",
+    "project_id": "mobileapplicationproj",
+    "storage_bucket": "mobileapplicationproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266832429847:android:696d5cae1cf2595660ed52",
+        "android_client_info": {
+          "package_name": "com.example.university_review_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHuMvljmzYgZe_hrDCbvzRKnSFH8LOUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

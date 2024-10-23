@@ -1,0 +1,40 @@
+name: university_review_platform
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.2.0
+  cloud_firestore: ^4.3.0
+  flutter_typeahead: ^4.0.0
+  flutter_rating_bar: ^4.0.0
+  lottie: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/chat.svg
+    - assets/images/main_top.png
+    - assets/images/main_bottom.png
+    - assets/icons/login.svg
+    - assets/images/login_bottom.png
+    - assets/icons/signup.svg
+    - assets/images/signup_top.png
+    - assets/images/review.png
+    - assets/images/prof_review.png
+    - assets/images/uni_review.png
+    - assets/animations/thank_you.json
