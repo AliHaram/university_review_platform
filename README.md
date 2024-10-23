@@ -25,7 +25,7 @@ Database: Firebase Firestore
 Backend Services: Firebase Authentication and Firebase Core
 Firebase Integration
 
-# The application leverages Firebase services to handle user authentication and securely store reviews in Firestore. Real-time updates ensure that new reviews are immediately visible to all users without refreshing the application.
+The application leverages Firebase services to handle user authentication and securely store reviews in Firestore. Real-time updates ensure that new reviews are immediately visible to all users without refreshing the application.
 
 # Purpose of the Project
 
